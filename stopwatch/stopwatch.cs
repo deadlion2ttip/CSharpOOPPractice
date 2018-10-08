@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace stopwatch
 {
-    class stopwatch
+    class Stopwatch
     {
         private bool _isRunning = false;
 
@@ -38,6 +38,16 @@ namespace stopwatch
             else
                 throw new InvalidOperationException("stopwatch cannot be started twice in a row");
 
+        }
+
+        public void Stop()
+        {
+            if (_isRunning)
+            {
+                this._endTime = DateTime.Now;
+                Console.WriteLine("Stopwatch stopped at " + _endTime);
+                _isRunning = false;
+            }
         }
     }
 }

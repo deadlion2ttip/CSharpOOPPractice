@@ -1,0 +1,7 @@
+C:\Users\cigma\code\Projects\CSharpOOPPractice\stopwatch\bin\Debug\stopwatch.exe.config
+C:\Users\cigma\code\Projects\CSharpOOPPractice\stopwatch\bin\Debug\stopwatch.exe
+C:\Users\cigma\code\Projects\CSharpOOPPractice\stopwatch\bin\Debug\stopwatch.pdb
+C:\Users\cigma\code\Projects\CSharpOOPPractice\stopwatch\obj\Debug\stopwatch.csprojAssemblyReference.cache
+C:\Users\cigma\code\Projects\CSharpOOPPractice\stopwatch\obj\Debug\stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\cigma\code\Projects\CSharpOOPPractice\stopwatch\obj\Debug\stopwatch.exe
+C:\Users\cigma\code\Projects\CSharpOOPPractice\stopwatch\obj\Debug\stopwatch.pdb

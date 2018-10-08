@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,17 @@ namespace stopwatch
     {
         static void Main(string[] args)
         {
+            Stopwatch timer = new Stopwatch();
 
+
+            timer.Start();
+            Thread.Sleep(2000);
+            timer.Stop();
+            Console.WriteLine(timer.TimeElapsed);
+
+            
         }
+
+       
     }
 }

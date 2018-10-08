@@ -1,0 +1,7 @@
+C:\Users\cigma\code\Projects\CSharpOOPPractice\StackOverflowPostMock\bin\Debug\StackOverflowPostMock.exe.config
+C:\Users\cigma\code\Projects\CSharpOOPPractice\StackOverflowPostMock\bin\Debug\StackOverflowPostMock.exe
+C:\Users\cigma\code\Projects\CSharpOOPPractice\StackOverflowPostMock\bin\Debug\StackOverflowPostMock.pdb
+C:\Users\cigma\code\Projects\CSharpOOPPractice\StackOverflowPostMock\obj\Debug\StackOverflowPostMock.csprojAssemblyReference.cache
+C:\Users\cigma\code\Projects\CSharpOOPPractice\StackOverflowPostMock\obj\Debug\StackOverflowPostMock.csproj.CoreCompileInputs.cache
+C:\Users\cigma\code\Projects\CSharpOOPPractice\StackOverflowPostMock\obj\Debug\StackOverflowPostMock.exe
+C:\Users\cigma\code\Projects\CSharpOOPPractice\StackOverflowPostMock\obj\Debug\StackOverflowPostMock.pdb

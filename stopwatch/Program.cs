@@ -13,13 +13,8 @@ namespace stopwatch
         {
             Stopwatch timer = new Stopwatch();
 
-
-            timer.Start();
-            Thread.Sleep(2000);
-            timer.Stop();
-            Console.WriteLine(timer.TimeElapsed);
-
-            
+            while (true)
+                InputHandler.handleInput(timer);
         }
 
        

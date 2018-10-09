@@ -19,6 +19,8 @@ namespace StackImplementation
 
             stack1.Push(DateTime.Today);
 
+            stack1.Clear();
+
             Console.WriteLine(stack1.Pop());
             Console.WriteLine(stack1.Pop());
             Console.WriteLine(stack1.Pop());

@@ -24,6 +24,13 @@ namespace StackImplementation
                 throw new InvalidOperationException("Cannot Pop an empty list");
             }
         }
+
+        public void Clear()
+        {
+            _store.Clear();
+            Console.WriteLine("Stack Cleared");
+        }
+
         public void Push(object input)
         {
             if (input == null)

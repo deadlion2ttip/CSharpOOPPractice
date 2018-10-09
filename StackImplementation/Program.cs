@@ -13,13 +13,16 @@ namespace StackImplementation
 
             Stack stack1 = new Stack();
 
-            stack1.push(2);
-            stack1.CheckList();
-            stack1.push("cheese");
-            stack1.CheckList();
-            stack1.push(DateTime.Today);
-            stack1.CheckList();
-            stack1.push(null);
+            stack1.Push(2);
+
+            stack1.Push("cheese");
+
+            stack1.Push(DateTime.Today);
+
+            Console.WriteLine(stack1.Pop());
+            Console.WriteLine(stack1.Pop());
+            Console.WriteLine(stack1.Pop());
+            Console.WriteLine(stack1.Pop());
         }
     }
 }

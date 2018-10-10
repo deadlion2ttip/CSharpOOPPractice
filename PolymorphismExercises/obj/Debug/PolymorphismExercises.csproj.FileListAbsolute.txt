@@ -1,0 +1,7 @@
+C:\Users\cigma\code\Projects\CSharpOOPPractice\PolymorphismExercises\bin\Debug\PolymorphismExercises.exe.config
+C:\Users\cigma\code\Projects\CSharpOOPPractice\PolymorphismExercises\bin\Debug\PolymorphismExercises.exe
+C:\Users\cigma\code\Projects\CSharpOOPPractice\PolymorphismExercises\bin\Debug\PolymorphismExercises.pdb
+C:\Users\cigma\code\Projects\CSharpOOPPractice\PolymorphismExercises\obj\Debug\PolymorphismExercises.csprojAssemblyReference.cache
+C:\Users\cigma\code\Projects\CSharpOOPPractice\PolymorphismExercises\obj\Debug\PolymorphismExercises.csproj.CoreCompileInputs.cache
+C:\Users\cigma\code\Projects\CSharpOOPPractice\PolymorphismExercises\obj\Debug\PolymorphismExercises.exe
+C:\Users\cigma\code\Projects\CSharpOOPPractice\PolymorphismExercises\obj\Debug\PolymorphismExercises.pdb

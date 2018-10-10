@@ -10,14 +10,14 @@ namespace PolymorphismExercises
     {
         static void Main(string[] args)
         {
-            OracleConnection conn1 = new OracleConnection("ASX12632");
-            conn1.Open();
+            SqlConnection SQL = new SqlConnection("SQL Connection");
+            OracleConnection oracle = new OracleConnection("Oracle Connection");
 
-            SqlConnection conn2 = new SqlConnection("JSKGKee223");
-            conn2.Close();
-            conn1.Close();
+            DbCommand SQLCommand = new DbCommand(SQL, "Drop Tables");
+            DbCommand oracleCommand = new DbCommand(oracle, "Blow up");
 
-
+            SQLCommand.Execute();
+            oracleCommand.Execute();
         }
     }
 }

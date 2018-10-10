@@ -14,7 +14,7 @@ namespace PolymorphismExercises
 
         public DbConnection(string connection)
         {
-            if (connection != null && !String.IsNullOrWhiteSpace(connection))
+            if (!String.IsNullOrWhiteSpace(connection))
             {
                 this.ConnectionString = connection;
             }

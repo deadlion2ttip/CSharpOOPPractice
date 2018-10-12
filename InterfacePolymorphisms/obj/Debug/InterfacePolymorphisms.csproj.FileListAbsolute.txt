@@ -1,0 +1,7 @@
+C:\Users\cigma\code\Projects\CSharpOOPPractice\InterfacePolymorphisms\bin\Debug\InterfacePolymorphisms.exe.config
+C:\Users\cigma\code\Projects\CSharpOOPPractice\InterfacePolymorphisms\bin\Debug\InterfacePolymorphisms.exe
+C:\Users\cigma\code\Projects\CSharpOOPPractice\InterfacePolymorphisms\bin\Debug\InterfacePolymorphisms.pdb
+C:\Users\cigma\code\Projects\CSharpOOPPractice\InterfacePolymorphisms\obj\Debug\InterfacePolymorphisms.csprojAssemblyReference.cache
+C:\Users\cigma\code\Projects\CSharpOOPPractice\InterfacePolymorphisms\obj\Debug\InterfacePolymorphisms.csproj.CoreCompileInputs.cache
+C:\Users\cigma\code\Projects\CSharpOOPPractice\InterfacePolymorphisms\obj\Debug\InterfacePolymorphisms.exe
+C:\Users\cigma\code\Projects\CSharpOOPPractice\InterfacePolymorphisms\obj\Debug\InterfacePolymorphisms.pdb
